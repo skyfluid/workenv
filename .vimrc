@@ -16,7 +16,7 @@ set hlsearch
 set cindent
 set backspace=indent,eol,start
 set laststatus=2
-set warp
+set wrap
 set ruler
 
 set ignorecase      "case insensetive search
