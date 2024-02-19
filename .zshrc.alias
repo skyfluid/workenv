@@ -7,3 +7,4 @@ alias grepcpp='grep -i -n --include=\*.cpp --include=\*.hpp --include=\*.c --inc
 alias kppath='echo `pwd` > ~/.lastpath'
 alias cdlast='cd `cat ~/.lastpath`'
 alias vimalias='vim ~/.zshrc.alias'
+alias sourcealias='source ~/.zshrc.alias'
